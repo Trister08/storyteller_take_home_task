@@ -123,7 +123,6 @@ def build_highlight_slides(events):
 
         etype = event.get("type", "").lower()
 
-        # Ignore end events
         if etype.startswith("end "):
             continue
 
