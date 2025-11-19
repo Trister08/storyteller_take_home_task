@@ -2,18 +2,6 @@ from datetime import datetime
 import json
 import os
 
-# ================================================================
-# Load asset metadata (image descriptions)
-# ================================================================
-ASSET_FILE = "asset_descriptions.json"
-ASSET_DIR = "assets"
-
-if os.path.exists(ASSET_FILE):
-    with open(ASSET_FILE, "r") as f:
-        ASSET_DATA = json.load(f).get("assets", [])
-else:
-    ASSET_DATA = []
-
 
 # ================================================================
 # Event scoring
@@ -79,37 +67,6 @@ def parse_minute(raw_minute, period=None):
     return base
 
 
-# ================================================================
-# Pick an image for a given event type (simple heuristics)
-# ================================================================
-def pick_image_for_event(event_type):
-    et = event_type.lower()
-
-    # Heuristic matching based on description keywords
-    for asset in ASSET_DATA:
-        desc = asset.get("description", "").lower()
-
-        if "goal" in et and ("goal" in desc or "celebrates" in desc or "scores" in desc):
-            return f"../assets/{asset['filename']}"
-
-        if "penalty" in et and "penalty" in desc:
-            return f"../assets/{asset['filename']}"
-
-        if "blocked" in et and "blocked" in desc:
-            return f"../assets/{asset['filename']}"
-
-        if "saved" in et and "saved" in desc:
-            return f"../assets/{asset['filename']}"
-
-        if "post" in et and "post" in desc:
-            return f"../assets/{asset['filename']}"
-
-    # fallback: first available image
-    if ASSET_DATA:
-        return f"../assets/{ASSET_DATA[0]['filename']}"
-
-    return "../assets/placeholder.png"
-
 
 # ================================================================
 # Build highlight slides
@@ -139,7 +96,6 @@ def build_highlight_slides(events):
             "minute": int(minute),
             "headline": f"{etype.upper()} — {player}",
             "caption": comment,
-            "image": pick_image_for_event(etype),
             "explanation": f"{etype}={score}"
         })
 
@@ -166,15 +122,11 @@ def build_story_pack(events):
 
     # ------------------------------------------------------------
     # Cover page
-    # ------------------------------------------------------------
-    cover_image = "../assets/placeholder.png"
-    if ASSET_DATA:
-        cover_image = f"../assets/{ASSET_DATA[0]['filename']}"
+    # -----------------------------------------------------------
 
     pages.append({
         "type": "cover",
         "headline": "Celtic vs Kilmarnock — Highlights",
-        "image": cover_image
     })
 
     # ------------------------------------------------------------
@@ -213,7 +165,7 @@ def build_story_pack(events):
             ),
             "highlights": len(highlights)
         },
-        "source": "../data/match_events.json",
+        "source": "..data/celtic-vs-rangers.json",
         "created_at": datetime.utcnow().isoformat() + "Z"
     }
 

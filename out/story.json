@@ -1,434 +1,618 @@
 {
-  "story_id": "celtic_kilmarnock_20251117_044010",
+  "story_id": "celtic_kilmarnock_20251119_144114",
   "title": "Top Moments \u2014 Celtic vs Kilmarnock",
   "pages": [
     {
       "type": "cover",
-      "headline": "Celtic vs Kilmarnock \u2014 Highlights",
-      "image": "../assets/placeholder.png"
+      "headline": "Celtic vs Kilmarnock \u2014 Highlights"
     },
     {
       "type": "highlight",
-      "minute": 9,
+      "minute": 24,
       "headline": "GOAL \u2014 1ku6lm34u5dkk4ykpd2ht4pg",
-      "caption": "Goal! Celtic 1, Kilmarnock 0. Johnny Kenny (Celtic) left footed shot from very close range to the bottom left corner. Assisted by Reo Hatate.",
-      "image": "../assets/placeholder.png",
+      "caption": "Goal! Celtic 1, Rangers 0. Johnny Kenny (Celtic) header from the right side of the six yard box to the high centre of the goal. Assisted by Arne Engels with a cross following a corner.",
       "explanation": "goal=5"
     },
     {
       "type": "highlight",
-      "minute": 50,
-      "headline": "GOAL \u2014 8i5ee4fmkqhl1rcuo31qomxud",
-      "caption": "Goal! Celtic 2, Kilmarnock 0. Kieran Tierney (Celtic) left footed shot from outside the box to the bottom right corner. Assisted by Liam Scales.",
-      "image": "../assets/placeholder.png",
-      "explanation": "goal=5"
-    },
-    {
-      "type": "highlight",
-      "minute": 84,
-      "headline": "GOAL \u2014 4x7o9h6ea8ldt9sxgz87vwycp",
-      "caption": "Goal! Celtic 3, Kilmarnock 0. Daizen Maeda (Celtic) right footed shot from the right side of the box to the bottom right corner. Assisted by Arne Engels with a through ball.",
-      "image": "../assets/placeholder.png",
-      "explanation": "goal=5"
-    },
-    {
-      "type": "highlight",
-      "minute": 92,
-      "headline": "PENALTY GOAL \u2014 b6woton2db3w4rm67vu69buy2",
-      "caption": "Goal! Celtic 4, Kilmarnock 0. Arne Engels (Celtic) converts the penalty with a right footed shot to the bottom left corner.",
-      "image": "../assets/placeholder.png",
+      "minute": 80,
+      "headline": "PENALTY GOAL \u2014 4kpf2eyjqmax3f676dmhh9e51",
+      "caption": "Goal! Celtic 1, Rangers 1. James Tavernier (Rangers) converts the penalty with a right footed shot to the bottom left corner.",
       "explanation": "penalty goal=5"
     },
     {
       "type": "highlight",
-      "minute": 3,
-      "headline": "ATTEMPT BLOCKED \u2014 83uml6n0wlgtirmi30sa2ihd6",
-      "caption": "Attempt blocked. Sebastian Tounekti (Celtic) right footed shot from the left side of the box is blocked. Assisted by Reo Hatate.",
-      "image": "../assets/placeholder.png",
-      "explanation": "attempt blocked=4"
+      "minute": 92,
+      "headline": "GOAL \u2014 cx59kxpqiabi3c5vl9mxvlyhh",
+      "caption": "Goal! Celtic 2, Rangers 1. Callum McGregor (Celtic) left footed shot from outside the box to the high centre of the goal. Assisted by Auston Trusty.",
+      "explanation": "goal=5"
     },
     {
       "type": "highlight",
-      "minute": 8,
-      "headline": "POST \u2014 1ku6lm34u5dkk4ykpd2ht4pg",
-      "caption": "Johnny Kenny (Celtic) hits the left post with a right footed shot from the left side of the box. Assisted by Luke McCowan.",
-      "image": "../assets/placeholder.png",
-      "explanation": "post=4"
+      "minute": 108,
+      "headline": "GOAL \u2014 2w9rpmsxu4czz5z8tht65j9xw",
+      "caption": "Goal! Celtic 3, Rangers 1. Callum Osmand (Celtic) right footed shot from very close range to the centre of the goal. Assisted by Kieran Tierney.",
+      "explanation": "goal=5"
     },
     {
       "type": "highlight",
-      "minute": 26,
-      "headline": "ATTEMPT SAVED \u2014 1ku6lm34u5dkk4ykpd2ht4pg",
-      "caption": "Attempt saved. Johnny Kenny (Celtic) left footed shot from very close range is saved in the centre of the goal by Eddie Beach (Kilmarnock).",
-      "image": "../assets/placeholder.png",
+      "minute": 11,
+      "headline": "ATTEMPT SAVED \u2014 46hksgr3nx4uo993u3mx7yzca",
+      "caption": "Attempt saved. Thelo Aasgaard (Rangers) right footed shot from outside the box is saved in the centre of the goal by Kasper Schmeichel (Celtic).",
       "explanation": "attempt saved=4"
     },
     {
       "type": "highlight",
-      "minute": 26,
-      "headline": "ATTEMPT SAVED \u2014 83uml6n0wlgtirmi30sa2ihd6",
-      "caption": "Attempt saved. Sebastian Tounekti (Celtic) right footed shot from outside the box is saved in the bottom left corner by Eddie Beach (Kilmarnock). Assisted by Reo Hatate.",
-      "image": "../assets/placeholder.png",
-      "explanation": "attempt saved=4"
-    },
-    {
-      "type": "highlight",
-      "minute": 28,
-      "headline": "POST \u2014 b0fuw7r17cq41awaoydw9bjl5",
-      "caption": "Bruce Anderson (Kilmarnock) hits the left post with a left footed shot from the left side of the six yard box. Assisted by Eddie Beach following a set piece situation.",
-      "image": "../assets/placeholder.png",
-      "explanation": "post=4"
-    },
-    {
-      "type": "highlight",
-      "minute": 34,
-      "headline": "ATTEMPT BLOCKED \u2014 ddoi4dfu5eq1p0cbit0ket2zu",
-      "caption": "Attempt blocked. Luke McCowan (Celtic) left footed shot from the centre of the box is blocked. Assisted by Kieran Tierney with a cross.",
-      "image": "../assets/placeholder.png",
-      "explanation": "attempt blocked=4"
-    },
-    {
-      "type": "highlight",
-      "minute": 35,
-      "headline": "ATTEMPT SAVED \u2014 bbdjilhblt8ff3a61q7xwrdgp",
-      "caption": "Attempt saved. Scott Tiffoney (Kilmarnock) right footed shot from the right side of the box is saved in the top centre of the goal by Kasper Schmeichel (Celtic). Assisted by David Watson.",
-      "image": "../assets/placeholder.png",
-      "explanation": "attempt saved=4"
-    },
-    {
-      "type": "highlight",
-      "minute": 37,
+      "minute": 11,
       "headline": "ATTEMPT BLOCKED \u2014 1ku6lm34u5dkk4ykpd2ht4pg",
-      "caption": "Attempt blocked. Johnny Kenny (Celtic) header from the centre of the box is blocked. Assisted by Kieran Tierney with a cross.",
-      "image": "../assets/placeholder.png",
+      "caption": "Attempt blocked. Johnny Kenny (Celtic) left footed shot from outside the box is blocked.",
       "explanation": "attempt blocked=4"
     },
     {
       "type": "highlight",
-      "minute": 41,
-      "headline": "ATTEMPT BLOCKED \u2014 cx59kxpqiabi3c5vl9mxvlyhh",
-      "caption": "Attempt blocked. Callum McGregor (Celtic) left footed shot from outside the box is blocked.",
-      "image": "../assets/placeholder.png",
+      "minute": 17,
+      "headline": "ATTEMPT SAVED \u2014 4x7o9h6ea8ldt9sxgz87vwycp",
+      "caption": "Attempt saved. Daizen Maeda (Celtic) right footed shot from the centre of the box is saved in the centre of the goal by Jack Butland (Rangers).",
+      "explanation": "attempt saved=4"
+    },
+    {
+      "type": "highlight",
+      "minute": 24,
+      "headline": "ATTEMPT BLOCKED \u2014 5uqf7a0y0fd1hf2rrmgx11tuy",
+      "caption": "Attempt blocked. Benjamin Nygren (Celtic) left footed shot from outside the box is blocked.",
       "explanation": "attempt blocked=4"
     },
     {
       "type": "highlight",
-      "minute": 46,
-      "headline": "ATTEMPT BLOCKED \u2014 4x7o9h6ea8ldt9sxgz87vwycp",
-      "caption": "Attempt blocked. Daizen Maeda (Celtic) left footed shot from the centre of the box is blocked. Assisted by Reo Hatate.",
-      "image": "../assets/placeholder.png",
+      "minute": 27,
+      "headline": "ATTEMPT SAVED \u2014 1ku6lm34u5dkk4ykpd2ht4pg",
+      "caption": "Attempt saved. Johnny Kenny (Celtic) right footed shot from the right side of the box is saved in the bottom right corner by Jack Butland (Rangers).",
+      "explanation": "attempt saved=4"
+    },
+    {
+      "type": "highlight",
+      "minute": 29,
+      "headline": "ATTEMPT SAVED \u2014 rmruexgp6l6ar57aq8xffg4q",
+      "caption": "Attempt saved. Nicolas Raskin (Rangers) right footed shot from the right side of the box is saved in the centre of the goal by Kasper Schmeichel (Celtic).",
+      "explanation": "attempt saved=4"
+    },
+    {
+      "type": "highlight",
+      "minute": 52,
+      "headline": "ATTEMPT BLOCKED \u2014 4kpf2eyjqmax3f676dmhh9e51",
+      "caption": "Attempt blocked. James Tavernier (Rangers) right footed shot from outside the box is blocked.",
+      "explanation": "attempt blocked=4"
+    },
+    {
+      "type": "highlight",
+      "minute": 57,
+      "headline": "ATTEMPT BLOCKED \u2014 1cad4bkf8h0mx6mfdm86g9d2i",
+      "caption": "Attempt blocked. Mohamed Diomande (Rangers) left footed shot from outside the box is blocked.",
       "explanation": "attempt blocked=4"
     },
     {
       "type": "highlight",
       "minute": 64,
-      "headline": "ATTEMPT BLOCKED \u2014 5uqf7a0y0fd1hf2rrmgx11tuy",
-      "caption": "Attempt blocked. Benjamin Nygren (Celtic) left footed shot from outside the box is blocked. Assisted by Reo Hatate.",
-      "image": "../assets/placeholder.png",
-      "explanation": "attempt blocked=4"
-    },
-    {
-      "type": "highlight",
-      "minute": 86,
-      "headline": "ATTEMPT SAVED \u2014 4x7o9h6ea8ldt9sxgz87vwycp",
-      "caption": "Attempt saved. Daizen Maeda (Celtic) right footed shot from outside the box is saved in the centre of the goal by Eddie Beach (Kilmarnock). Assisted by Anthony Ralston with a through ball.",
-      "image": "../assets/placeholder.png",
+      "headline": "ATTEMPT SAVED \u2014 cwmej1d313luxo30tav8ws3jd",
+      "caption": "Attempt saved. Anthony Ralston (Celtic) right footed shot from the right side of the box is saved in the bottom right corner by Jack Butland (Rangers).",
       "explanation": "attempt saved=4"
     },
     {
       "type": "highlight",
-      "minute": 91,
-      "headline": "PENALTY WON \u2014 mvn1u3p4yeecbjobvsuontp0",
-      "caption": "Penalty Celtic. Yang Hyun-Jun draws a foul in the penalty area.",
-      "image": "../assets/placeholder.png",
-      "explanation": "penalty won=4"
+      "minute": 69,
+      "headline": "POST \u2014 26olsdd9erf8rahc8xfqz01xx",
+      "caption": "James Forrest (Celtic) hits the bar with a left footed shot from the centre of the box.",
+      "explanation": "post=4"
+    },
+    {
+      "type": "highlight",
+      "minute": 74,
+      "headline": "ATTEMPT SAVED \u2014 ed81nbya8j93qvelqdk79ustm",
+      "caption": "Attempt saved. Reo Hatate (Celtic) right footed shot from the centre of the box is saved in the centre of the goal by Jack Butland (Rangers).",
+      "explanation": "attempt saved=4"
+    },
+    {
+      "type": "highlight",
+      "minute": 75,
+      "headline": "ATTEMPT BLOCKED \u2014 6pmuxgyfaqn2h0x69o5l1mq22",
+      "caption": "Attempt blocked. Djeidi Gassama (Rangers) right footed shot from the centre of the box is blocked.",
+      "explanation": "attempt blocked=4"
+    },
+    {
+      "type": "highlight",
+      "minute": 78,
+      "headline": "ATTEMPT BLOCKED \u2014 6pmuxgyfaqn2h0x69o5l1mq22",
+      "caption": "Attempt blocked. Djeidi Gassama (Rangers) left footed shot from outside the box is blocked.",
+      "explanation": "attempt blocked=4"
+    },
+    {
+      "type": "highlight",
+      "minute": 84,
+      "headline": "ATTEMPT SAVED \u2014 2w9rpmsxu4czz5z8tht65j9xw",
+      "caption": "Attempt saved. Callum Osmand (Celtic) right footed shot from the centre of the box is saved in the centre of the goal by Jack Butland (Rangers).",
+      "explanation": "attempt saved=4"
+    },
+    {
+      "type": "highlight",
+      "minute": 94,
+      "headline": "ATTEMPT BLOCKED \u2014 8i5ee4fmkqhl1rcuo31qomxud",
+      "caption": "Attempt blocked. Kieran Tierney (Celtic) right footed shot from the left side of the box is blocked.",
+      "explanation": "attempt blocked=4"
+    },
+    {
+      "type": "highlight",
+      "minute": 96,
+      "headline": "ATTEMPT SAVED \u2014 2w9rpmsxu4czz5z8tht65j9xw",
+      "caption": "Attempt saved. Callum Osmand (Celtic) header from the centre of the box is saved in the bottom left corner by Jack Butland (Rangers).",
+      "explanation": "attempt saved=4"
+    },
+    {
+      "type": "highlight",
+      "minute": 99,
+      "headline": "ATTEMPT SAVED \u2014 6pmuxgyfaqn2h0x69o5l1mq22",
+      "caption": "Attempt saved. Djeidi Gassama (Rangers) left footed shot from the left side of the box is saved in the centre of the goal by Kasper Schmeichel (Celtic).",
+      "explanation": "attempt saved=4"
+    },
+    {
+      "type": "highlight",
+      "minute": 103,
+      "headline": "ATTEMPT SAVED \u2014 2w9rpmsxu4czz5z8tht65j9xw",
+      "caption": "Attempt saved. Callum Osmand (Celtic) left footed shot from the centre of the box is saved in the centre of the goal by Jack Butland (Rangers).",
+      "explanation": "attempt saved=4"
     },
     {
       "type": "highlight",
       "minute": 6,
-      "headline": "FREE KICK WON \u2014 4x7o9h6ea8ldt9sxgz87vwycp",
-      "caption": "Daizen Maeda (Celtic) wins a free kick in the defensive half.",
-      "image": "../assets/placeholder.png",
+      "headline": "FREE KICK WON \u2014 1cad4bkf8h0mx6mfdm86g9d2i",
+      "caption": "Mohamed Diomande (Rangers) wins a free kick in the attacking half.",
       "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
-      "minute": 6,
-      "headline": "FREE KICK WON \u2014 atf7aycphllb4i8h9jnld4bmd",
-      "caption": "Brad Lyons (Kilmarnock) wins a free kick in the defensive half.",
-      "image": "../assets/placeholder.png",
+      "minute": 8,
+      "headline": "FREE KICK WON \u2014 1ku6lm34u5dkk4ykpd2ht4pg",
+      "caption": "Johnny Kenny (Celtic) wins a free kick in the defensive half.",
       "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
-      "minute": 10,
-      "headline": "CORNER \u2014 dukoi0ncgcyi1vcoui378yeax",
-      "caption": "Corner, Celtic. Conceded by Robbie Deas.",
-      "image": "../assets/placeholder.png",
+      "minute": 9,
+      "headline": "CORNER \u2014 7ujr3n286xjhtwsrckvkbldxx",
+      "caption": "Corner, Celtic. Conceded by Derek Cornelius.",
       "explanation": "corner=2"
-    },
-    {
-      "type": "highlight",
-      "minute": 11,
-      "headline": "FREE KICK WON \u2014 atf7aycphllb4i8h9jnld4bmd",
-      "caption": "Brad Lyons (Kilmarnock) wins a free kick in the defensive half.",
-      "image": "../assets/placeholder.png",
-      "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
       "minute": 12,
-      "headline": "CORNER \u2014 9qmyubxwvhhotzx7elbuzn7jd",
-      "caption": "Corner, Kilmarnock. Conceded by Marcelo Saracchi.",
-      "image": "../assets/placeholder.png",
-      "explanation": "corner=2"
+      "headline": "FREE KICK WON \u2014 4x7o9h6ea8ldt9sxgz87vwycp",
+      "caption": "Daizen Maeda (Celtic) wins a free kick on the right wing.",
+      "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
       "minute": 13,
-      "headline": "CORNER \u2014 bwhn9ve3o3jh21a4vuyjmzbbo",
-      "caption": "Corner, Kilmarnock. Conceded by Jahmai Simpson-Pusey.",
-      "image": "../assets/placeholder.png",
+      "headline": "FREE KICK WON \u2014 2m5jzeksbet8ltn3shk2exox6",
+      "caption": "Youssef Chermiti (Rangers) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 18,
+      "headline": "FREE KICK WON \u2014 b6woton2db3w4rm67vu69buy2",
+      "caption": "Arne Engels (Celtic) wins a free kick in the attacking half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 23,
+      "headline": "YELLOW CARD \u2014 7ujr3n286xjhtwsrckvkbldxx",
+      "caption": "Derek Cornelius (Rangers) is shown the yellow card for a bad foul.",
+      "explanation": "yellow card=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 23,
+      "headline": "FREE KICK WON \u2014 1ku6lm34u5dkk4ykpd2ht4pg",
+      "caption": "Johnny Kenny (Celtic) wins a free kick in the attacking half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 24,
+      "headline": "CORNER \u2014 rmruexgp6l6ar57aq8xffg4q",
+      "caption": "Corner, Celtic. Conceded by Nicolas Raskin.",
       "explanation": "corner=2"
     },
     {
       "type": "highlight",
-      "minute": 26,
-      "headline": "CORNER \u2014 2707xag1w0czgk17kz84632ms",
-      "caption": "Corner, Celtic. Conceded by David Watson.",
-      "image": "../assets/placeholder.png",
-      "explanation": "corner=2"
-    },
-    {
-      "type": "highlight",
-      "minute": 26,
-      "headline": "CORNER \u2014 8r6ckwdkz9mueryruzqhwjx4a",
-      "caption": "Corner, Celtic. Conceded by George Stanger.",
-      "image": "../assets/placeholder.png",
-      "explanation": "corner=2"
+      "minute": 25,
+      "headline": "FREE KICK WON \u2014 ecowfx5iwg3lw9pn3x7tn1gr8",
+      "caption": "Nasser Djiga (Rangers) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
       "minute": 28,
-      "headline": "FREE KICK WON \u2014 ccsiplg85gm3aokzhbkaezwno",
-      "caption": "Zac Williams (Kilmarnock) wins a free kick in the defensive half.",
-      "image": "../assets/placeholder.png",
+      "headline": "FREE KICK WON \u2014 7yte0egh8y7assst6g0vnn9w5",
+      "caption": "Jack Butland (Rangers) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 28,
+      "headline": "CORNER \u2014 7yte0egh8y7assst6g0vnn9w5",
+      "caption": "Corner, Celtic. Conceded by Jack Butland.",
+      "explanation": "corner=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 29,
+      "headline": "CORNER \u2014 3bvr4z5z4cyb8fadfwtgxrx0p",
+      "caption": "Corner, Rangers. Conceded by Auston Trusty.",
+      "explanation": "corner=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 30,
+      "headline": "FREE KICK WON \u2014 6wd6xe1bezku88ro6c0u3t15g",
+      "caption": "Jayden Meghoma (Rangers) wins a free kick on the left wing.",
       "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
       "minute": 30,
-      "headline": "CORNER \u2014 bwhn9ve3o3jh21a4vuyjmzbbo",
-      "caption": "Corner, Kilmarnock. Conceded by Jahmai Simpson-Pusey.",
-      "image": "../assets/placeholder.png",
-      "explanation": "corner=2"
-    },
-    {
-      "type": "highlight",
-      "minute": 32,
-      "headline": "FREE KICK WON \u2014 b0fuw7r17cq41awaoydw9bjl5",
-      "caption": "Bruce Anderson (Kilmarnock) wins a free kick on the left wing.",
-      "image": "../assets/placeholder.png",
+      "headline": "FREE KICK WON \u2014 4j5hfebi948ggjwexpndrub1m",
+      "caption": "Danilo (Rangers) wins a free kick in the defensive half.",
       "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
-      "minute": 34,
-      "headline": "CORNER \u2014 ccsiplg85gm3aokzhbkaezwno",
-      "caption": "Corner, Celtic. Conceded by Zac Williams.",
-      "image": "../assets/placeholder.png",
-      "explanation": "corner=2"
+      "minute": 32,
+      "headline": "FREE KICK WON \u2014 46hksgr3nx4uo993u3mx7yzca",
+      "caption": "Thelo Aasgaard (Rangers) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 33,
+      "headline": "FREE KICK WON \u2014 cwmej1d313luxo30tav8ws3jd",
+      "caption": "Anthony Ralston (Celtic) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
       "minute": 35,
-      "headline": "CORNER \u2014 8govqd0xf8ijst50tgypaep5h",
-      "caption": "Corner, Kilmarnock. Conceded by Kasper Schmeichel.",
-      "image": "../assets/placeholder.png",
+      "headline": "CORNER \u2014 4kpf2eyjqmax3f676dmhh9e51",
+      "caption": "Corner, Celtic. Conceded by James Tavernier.",
       "explanation": "corner=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 36,
+      "headline": "FREE KICK WON \u2014 b6woton2db3w4rm67vu69buy2",
+      "caption": "Arne Engels (Celtic) wins a free kick on the left wing.",
+      "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
       "minute": 37,
-      "headline": "CORNER \u2014 ccsiplg85gm3aokzhbkaezwno",
-      "caption": "Corner, Celtic. Conceded by Zac Williams.",
-      "image": "../assets/placeholder.png",
-      "explanation": "corner=2"
+      "headline": "FREE KICK WON \u2014 cwmej1d313luxo30tav8ws3jd",
+      "caption": "Anthony Ralston (Celtic) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
-      "minute": 38,
-      "headline": "FREE KICK WON \u2014 d7bdemphybsoi52dxhu1wou3u",
-      "caption": "Eddie Beach (Kilmarnock) wins a free kick in the defensive half.",
-      "image": "../assets/placeholder.png",
+      "minute": 39,
+      "headline": "FREE KICK WON \u2014 b6woton2db3w4rm67vu69buy2",
+      "caption": "Arne Engels (Celtic) wins a free kick on the right wing.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 44,
+      "headline": "FREE KICK WON \u2014 2m5jzeksbet8ltn3shk2exox6",
+      "caption": "Youssef Chermiti (Rangers) wins a free kick on the right wing.",
       "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
       "minute": 45,
-      "headline": "CORNER \u2014 610qf6vm0fsq97hvdcpj4ka95",
-      "caption": "Corner, Celtic. Conceded by Tom Lowery.",
-      "image": "../assets/placeholder.png",
+      "headline": "CORNER \u2014 4omwvnw9p46nfg7by0amh2hh",
+      "caption": "Corner, Celtic. Conceded by John Souttar.",
       "explanation": "corner=2"
     },
     {
       "type": "highlight",
+      "minute": 45,
+      "headline": "FREE KICK WON \u2014 rmruexgp6l6ar57aq8xffg4q",
+      "caption": "Nicolas Raskin (Rangers) wins a free kick on the left wing.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
       "minute": 46,
-      "headline": "CORNER \u2014 7w32oxa2v9mk5hh9ansznk3c9",
-      "caption": "Corner, Celtic. Conceded by Dominic Thompson.",
-      "image": "../assets/placeholder.png",
+      "headline": "CORNER \u2014 rmruexgp6l6ar57aq8xffg4q",
+      "caption": "Corner, Celtic. Conceded by Nicolas Raskin.",
       "explanation": "corner=2"
     },
     {
       "type": "highlight",
       "minute": 47,
-      "headline": "CORNER \u2014 ccsiplg85gm3aokzhbkaezwno",
-      "caption": "Corner, Celtic. Conceded by Zac Williams.",
-      "image": "../assets/placeholder.png",
-      "explanation": "corner=2"
+      "headline": "YELLOW CARD \u2014 3bvr4z5z4cyb8fadfwtgxrx0p",
+      "caption": "Auston Trusty (Celtic) is shown the yellow card for a bad foul.",
+      "explanation": "yellow card=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 47,
+      "headline": "FREE KICK WON \u2014 7yte0egh8y7assst6g0vnn9w5",
+      "caption": "Jack Butland (Rangers) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
       "minute": 48,
-      "headline": "FREE KICK WON \u2014 bbdjilhblt8ff3a61q7xwrdgp",
-      "caption": "Scott Tiffoney (Kilmarnock) wins a free kick in the attacking half.",
-      "image": "../assets/placeholder.png",
+      "headline": "FREE KICK WON \u2014 rmruexgp6l6ar57aq8xffg4q",
+      "caption": "Nicolas Raskin (Rangers) wins a free kick in the attacking half.",
       "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
-      "minute": 54,
-      "headline": "FREE KICK WON \u2014 3uqh7k40ljd51zzyxeora2yg9",
-      "caption": "James Brown (Kilmarnock) wins a free kick in the defensive half.",
-      "image": "../assets/placeholder.png",
+      "minute": 50,
+      "headline": "YELLOW CARD \u2014 cwmej1d313luxo30tav8ws3jd",
+      "caption": "Anthony Ralston (Celtic) is shown the yellow card for a bad foul.",
+      "explanation": "yellow card=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 50,
+      "headline": "FREE KICK WON \u2014 rmruexgp6l6ar57aq8xffg4q",
+      "caption": "Nicolas Raskin (Rangers) wins a free kick on the left wing.",
       "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
-      "minute": 57,
-      "headline": "FREE KICK WON \u2014 atf7aycphllb4i8h9jnld4bmd",
-      "caption": "Brad Lyons (Kilmarnock) wins a free kick in the defensive half.",
-      "image": "../assets/placeholder.png",
+      "minute": 50,
+      "headline": "FREE KICK WON \u2014 6pmuxgyfaqn2h0x69o5l1mq22",
+      "caption": "Djeidi Gassama (Rangers) wins a free kick on the right wing.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 51,
+      "headline": "FREE KICK WON \u2014 ecowfx5iwg3lw9pn3x7tn1gr8",
+      "caption": "Nasser Djiga (Rangers) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 56,
+      "headline": "YELLOW CARD \u2014 4x7o9h6ea8ldt9sxgz87vwycp",
+      "caption": "Daizen Maeda (Celtic) is shown the yellow card for a bad foul.",
+      "explanation": "yellow card=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 56,
+      "headline": "FREE KICK WON \u2014 1cad4bkf8h0mx6mfdm86g9d2i",
+      "caption": "Mohamed Diomande (Rangers) wins a free kick in the attacking half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 58,
+      "headline": "CORNER \u2014 8byxqwq7ktyxn5rfbj4p0m0o9",
+      "caption": "Corner, Rangers. Conceded by Liam Scales.",
+      "explanation": "corner=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 60,
+      "headline": "FREE KICK WON \u2014 6pmuxgyfaqn2h0x69o5l1mq22",
+      "caption": "Djeidi Gassama (Rangers) wins a free kick in the defensive half.",
       "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
       "minute": 61,
-      "headline": "FREE KICK WON \u2014 bbdjilhblt8ff3a61q7xwrdgp",
-      "caption": "Scott Tiffoney (Kilmarnock) wins a free kick in the defensive half.",
-      "image": "../assets/placeholder.png",
-      "explanation": "free kick won=2"
-    },
-    {
-      "type": "highlight",
-      "minute": 62,
-      "headline": "YELLOW CARD \u2014 atf7aycphllb4i8h9jnld4bmd",
-      "caption": "Brad Lyons (Kilmarnock) is shown the yellow card for a bad foul.",
-      "image": "../assets/placeholder.png",
+      "headline": "YELLOW CARD \u2014 cx59kxpqiabi3c5vl9mxvlyhh",
+      "caption": "Callum McGregor (Celtic) is shown the yellow card for a bad foul.",
       "explanation": "yellow card=2"
     },
     {
       "type": "highlight",
-      "minute": 62,
-      "headline": "FREE KICK WON \u2014 4x7o9h6ea8ldt9sxgz87vwycp",
-      "caption": "Daizen Maeda (Celtic) wins a free kick in the attacking half.",
-      "image": "../assets/placeholder.png",
+      "minute": 61,
+      "headline": "FREE KICK WON \u2014 rmruexgp6l6ar57aq8xffg4q",
+      "caption": "Nicolas Raskin (Rangers) wins a free kick in the defensive half.",
       "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
-      "minute": 68,
-      "headline": "CORNER \u2014 8i5ee4fmkqhl1rcuo31qomxud",
-      "caption": "Corner, Kilmarnock. Conceded by Kieran Tierney.",
-      "image": "../assets/placeholder.png",
+      "minute": 63,
+      "headline": "CORNER \u2014 ecowfx5iwg3lw9pn3x7tn1gr8",
+      "caption": "Corner, Celtic. Conceded by Nasser Djiga.",
       "explanation": "corner=2"
     },
     {
       "type": "highlight",
-      "minute": 68,
-      "headline": "FREE KICK WON \u2014 7w32oxa2v9mk5hh9ansznk3c9",
-      "caption": "Dominic Thompson (Kilmarnock) wins a free kick in the defensive half.",
-      "image": "../assets/placeholder.png",
-      "explanation": "free kick won=2"
+      "minute": 64,
+      "headline": "CORNER \u2014 7yte0egh8y7assst6g0vnn9w5",
+      "caption": "Corner, Celtic. Conceded by Jack Butland.",
+      "explanation": "corner=2"
     },
     {
       "type": "highlight",
-      "minute": 69,
-      "headline": "FREE KICK WON \u2014 ed81nbya8j93qvelqdk79ustm",
-      "caption": "Reo Hatate (Celtic) wins a free kick in the defensive half.",
-      "image": "../assets/placeholder.png",
-      "explanation": "free kick won=2"
-    },
-    {
-      "type": "highlight",
-      "minute": 70,
-      "headline": "YELLOW CARD \u2014 cx59kxpqiabi3c5vl9mxvlyhh",
-      "caption": "Callum McGregor (Celtic) is shown the yellow card for a bad foul.",
-      "image": "../assets/placeholder.png",
+      "minute": 65,
+      "headline": "YELLOW CARD \u2014 b6woton2db3w4rm67vu69buy2",
+      "caption": "Arne Engels (Celtic) is shown the yellow card for a bad foul.",
       "explanation": "yellow card=2"
     },
     {
       "type": "highlight",
-      "minute": 70,
-      "headline": "FREE KICK WON \u2014 ctqn305re0qsih8mh5nufg89h",
-      "caption": "Greg Kiltie (Kilmarnock) wins a free kick in the attacking half.",
-      "image": "../assets/placeholder.png",
+      "minute": 65,
+      "headline": "FREE KICK WON \u2014 6pmuxgyfaqn2h0x69o5l1mq22",
+      "caption": "Djeidi Gassama (Rangers) wins a free kick in the attacking half.",
       "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
-      "minute": 74,
-      "headline": "FREE KICK WON \u2014 ctqn305re0qsih8mh5nufg89h",
-      "caption": "Greg Kiltie (Kilmarnock) wins a free kick in the defensive half.",
-      "image": "../assets/placeholder.png",
+      "minute": 71,
+      "headline": "FREE KICK WON \u2014 9qmyubxwvhhotzx7elbuzn7jd",
+      "caption": "Marcelo Saracchi (Celtic) wins a free kick in the defensive half.",
       "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
-      "minute": 76,
-      "headline": "YELLOW CARD \u2014 4x7o9h6ea8ldt9sxgz87vwycp",
-      "caption": "Daizen Maeda (Celtic) is shown the yellow card for a bad foul.",
-      "image": "../assets/placeholder.png",
+      "minute": 72,
+      "headline": "YELLOW CARD \u2014 rmruexgp6l6ar57aq8xffg4q",
+      "caption": "Nicolas Raskin (Rangers) is shown the yellow card for a bad foul.",
       "explanation": "yellow card=2"
     },
     {
       "type": "highlight",
       "minute": 76,
-      "headline": "FREE KICK WON \u2014 3uqh7k40ljd51zzyxeora2yg9",
-      "caption": "James Brown (Kilmarnock) wins a free kick in the defensive half.",
-      "image": "../assets/placeholder.png",
+      "headline": "CORNER \u2014 8byxqwq7ktyxn5rfbj4p0m0o9",
+      "caption": "Corner, Rangers. Conceded by Liam Scales.",
+      "explanation": "corner=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 82,
+      "headline": "CORNER \u2014 8byxqwq7ktyxn5rfbj4p0m0o9",
+      "caption": "Corner, Rangers. Conceded by Liam Scales.",
+      "explanation": "corner=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 84,
+      "headline": "FREE KICK WON \u2014 2w9rpmsxu4czz5z8tht65j9xw",
+      "caption": "Callum Osmand (Celtic) wins a free kick in the defensive half.",
       "explanation": "free kick won=2"
     },
     {
       "type": "highlight",
-      "minute": 79,
-      "headline": "YELLOW CARD \u2014 ctqn305re0qsih8mh5nufg89h",
-      "caption": "Greg Kiltie (Kilmarnock) is shown the yellow card.",
-      "image": "../assets/placeholder.png",
-      "explanation": "yellow card=2"
+      "minute": 85,
+      "headline": "CORNER \u2014 8cpd4je0ku8wjumqeh3ruv10p",
+      "caption": "Corner, Celtic. Conceded by Bojan Miovski.",
+      "explanation": "corner=2"
     },
     {
       "type": "highlight",
-      "minute": 80,
-      "headline": "FREE KICK WON \u2014 ek2ub5dvlisn73a45n3gwj2s5",
-      "caption": "Liam Polworth (Kilmarnock) wins a free kick in the defensive half.",
-      "image": "../assets/placeholder.png",
-      "explanation": "free kick won=2"
-    },
-    {
-      "type": "highlight",
-      "minute": 83,
-      "headline": "CORNER \u2014 3bvr4z5z4cyb8fadfwtgxrx0p",
-      "caption": "Corner, Kilmarnock. Conceded by Auston Trusty.",
-      "image": "../assets/placeholder.png",
+      "minute": 85,
+      "headline": "CORNER \u2014 7yte0egh8y7assst6g0vnn9w5",
+      "caption": "Corner, Celtic. Conceded by Jack Butland.",
       "explanation": "corner=2"
     },
     {
       "type": "highlight",
       "minute": 88,
+      "headline": "CORNER \u2014 4omwvnw9p46nfg7by0amh2hh",
+      "caption": "Corner, Celtic. Conceded by John Souttar.",
+      "explanation": "corner=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 91,
+      "headline": "CORNER \u2014 7ujr3n286xjhtwsrckvkbldxx",
+      "caption": "Corner, Celtic. Conceded by Derek Cornelius.",
+      "explanation": "corner=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 93,
+      "headline": "FREE KICK WON \u2014 cwmej1d313luxo30tav8ws3jd",
+      "caption": "Anthony Ralston (Celtic) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 96,
+      "headline": "CORNER \u2014 7yte0egh8y7assst6g0vnn9w5",
+      "caption": "Corner, Celtic. Conceded by Jack Butland.",
+      "explanation": "corner=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 101,
       "headline": "CORNER \u2014 8i5ee4fmkqhl1rcuo31qomxud",
-      "caption": "Corner, Kilmarnock. Conceded by Kieran Tierney.",
-      "image": "../assets/placeholder.png",
+      "caption": "Corner, Rangers. Conceded by Kieran Tierney.",
+      "explanation": "corner=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 103,
+      "headline": "FREE KICK WON \u2014 6pmuxgyfaqn2h0x69o5l1mq22",
+      "caption": "Djeidi Gassama (Rangers) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 104,
+      "headline": "YELLOW CARD \u2014 4omwvnw9p46nfg7by0amh2hh",
+      "caption": "John Souttar (Rangers) is shown the yellow card for a bad foul.",
+      "explanation": "yellow card=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 104,
+      "headline": "FREE KICK WON \u2014 b6woton2db3w4rm67vu69buy2",
+      "caption": "Arne Engels (Celtic) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 105,
+      "headline": "FREE KICK WON \u2014 7ujr3n286xjhtwsrckvkbldxx",
+      "caption": "Derek Cornelius (Rangers) wins a free kick in the attacking half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 106,
+      "headline": "FREE KICK WON \u2014 2w9rpmsxu4czz5z8tht65j9xw",
+      "caption": "Callum Osmand (Celtic) wins a free kick in the attacking half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 106,
+      "headline": "FREE KICK WON \u2014 42rwtl17m029bdkerhfixiolw",
+      "caption": "Mikey Moore (Rangers) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 110,
+      "headline": "YELLOW CARD \u2014 2w9rpmsxu4czz5z8tht65j9xw",
+      "caption": "Callum Osmand (Celtic) is shown the yellow card for a bad foul.",
+      "explanation": "yellow card=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 110,
+      "headline": "FREE KICK WON \u2014 4kpf2eyjqmax3f676dmhh9e51",
+      "caption": "James Tavernier (Rangers) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 112,
+      "headline": "FREE KICK WON \u2014 42rwtl17m029bdkerhfixiolw",
+      "caption": "Mikey Moore (Rangers) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 121,
+      "headline": "FREE KICK WON \u2014 4kpf2eyjqmax3f676dmhh9e51",
+      "caption": "James Tavernier (Rangers) wins a free kick in the defensive half.",
+      "explanation": "free kick won=2"
+    },
+    {
+      "type": "highlight",
+      "minute": 121,
+      "headline": "CORNER \u2014 7ujr3n286xjhtwsrckvkbldxx",
+      "caption": "Corner, Celtic. Conceded by Derek Cornelius.",
       "explanation": "corner=2"
     },
     {
@@ -439,8 +623,8 @@
   ],
   "metrics": {
     "goals": 4,
-    "highlights": 53
+    "highlights": 87
   },
-  "source": "../data/match_events.json",
-  "created_at": "2025-11-17T02:40:10.153214Z"
+  "source": "..data/celtic-vs-rangers.json",
+  "created_at": "2025-11-19T12:41:14.499177Z"
 }

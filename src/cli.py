@@ -3,7 +3,7 @@ from builder import build_story_pack
 
 def main():
     # Load raw JSON
-    with open("data/match_events.json", "r") as f:
+    with open("data/celtic-vs-rangers.json", "r") as f:
         raw = json.load(f)
 
     # Extract events from nested structure
